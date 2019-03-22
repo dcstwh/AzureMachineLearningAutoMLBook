@@ -1,2 +1,3 @@
 # AzureMachineLearningAutoMLBook
-OReilly Book - AutoML with Azure Machine Learning 
+Sample Python notebooks for the OReilly Book - AutoML with Azure Machine Learning 
+
